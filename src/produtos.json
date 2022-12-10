@@ -1,0 +1,52 @@
+{
+  "trajes": [
+    {
+      "id": 1,
+      "name": "Skylab A7L",
+      "value": 12500.0,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Apollo_17_Cernan_on_moon_cropped.jpg/800px-Apollo_17_Cernan_on_moon_cropped.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Gemini G4C",
+      "value": 37000.0,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/G4C_EVA_12_-_cropped.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sokol-KV2",
+      "value": 23100.0,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Sokol_KV2.JPG"
+    },
+    {
+      "id": 4,
+      "name": "Orlan-MK",
+      "value": 17800.0,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Orlan-MK-MAKS2009.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Série Z",
+      "value": 45000.0,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Z-1_Spacesuit_Prototype_-_standing_Nov_2012.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mark III",
+      "value": 56300.0,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mark-III_D-RATS_2004.jpg"
+    },
+    {
+      "id": 7,
+      "name": "SpaceX",
+      "value": 70000.0,
+      "imageUrl": "https://i.pinimg.com/474x/f6/a6/7a/f6a67a3d0744a1afd431df4a91c6530d.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Feitian",
+      "value": 25400.0,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Chinese_EVA_spacesuit_%281%29.JPG"
+    }
+  ]
+}
